@@ -5,3 +5,8 @@ h1, p {
     color: navy;
     margin-left: 20px;
 }
+
+h2 {
+    color: red;
+    margin-right: 20px;
+}
